@@ -65,19 +65,19 @@ The objective of this project is to transform raw customer data into meaningful 
 # Project Workflow
 
 Raw Dataset
-↓
+->
 Data Cleaning
-↓
+->
 Business Dataset Enhancement
-↓
+->
 MySQL Database Design
-↓
+->
 SQL Business Analysis
-↓
+->
 Python Exploratory Data Analysis
-↓
+->
 Power BI Dashboard
-↓
+->
 Business Recommendations
 
 
